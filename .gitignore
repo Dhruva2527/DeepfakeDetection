@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+node_modules/
+.env
+data/
+*.zip
+models/detector_v2.pt
+models/detector_v3_e2.pt
+app_backup.py
+detector_backup.py
+requirements_before_text.txt
+/real.jpg
+/ai.png
